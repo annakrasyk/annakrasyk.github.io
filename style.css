@@ -1,0 +1,22 @@
+body {
+    background-color: pink;
+}
+nav {
+    background-color: lavender;
+}
+main {
+    background-color: gray;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: red;
+}
+p {
+    color: blue;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
